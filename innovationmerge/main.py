@@ -1,0 +1,3 @@
+from innovationmerge import edge_object_detect, edge_object_detect_mobilenet
+
+print(edge_object_detect_mobilenet())
