@@ -15,7 +15,7 @@ Core modules of innovation merge projects
 - `poetry install`
 
 #### Test the project using poetry and Pytest
-- `poetry run pytest`
+- `poetry run pytest -s`
 
 #### Add project dependencies using poetry 
 - `poetry add package_name`

@@ -161,4 +161,5 @@ cython_debug/
 innovationmerge/Dockerfile
 innovationmerge/innovationmerge/.env.*
 innovationmerge/innovationmerge/sample.py
+projects
 comamnds.md
