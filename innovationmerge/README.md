@@ -17,4 +17,4 @@
 ## Components
 
 ### Edge Computing
-1. `Object Detection`
+1. `Object Detection` - Currently SSD and MobileNet models are supported

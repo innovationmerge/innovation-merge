@@ -1,4 +1,3 @@
-from innovationmerge.src.ai.cpu.object_detection import cpuObjectDetectionTfLite, edgeObjectDetectionTfLite
+from innovationmerge.src.ai.edge.object_detection import EdgeObjectDetectionTfLite
 
-
-__all__ = ["cpuObjectDetectionTfLite", "edgeObjectDetectionTfLite"]
+__all__ = ["EdgeObjectDetectionTfLite"]
